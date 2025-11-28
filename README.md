@@ -1,1 +1,59 @@
-# CTF
+# 🕵️‍♂️ Cybersecurity /CTF 
+
+Ce dépôt contient l’ensemble de mes notes, commandes, méthodologies et recherches personnelles réalisées lors de challenges **CTF**, d’exercices de **pentesting**, et de travaux pratiques liés à la cybersécurité.
+
+L’objectif est de centraliser tout ce qui peut m’aider à automatiser, répéter et améliorer mes processus d’audit ou d’exploitation.
+
+---
+
+## 📂 Structure du dépôt
+
+Les dossiers et fichiers sont organisés par grandes thématiques :
+
+### 🔍 **1. Scan & Reconnaissance**
+- Commandes Nmap
+- Enumération de services (SSH, SMB, FTP, DNS…)
+- Techniques d’OSINT
+- Recon automatisée
+
+### 🔧 **2. Exploitation**
+- Exploits courants
+- Reverse shells (Bash, Python, PHP…)
+- Escalade de privilèges (Linux / Windows)
+- Payloads personnalisés
+
+### 🧰 **3. Outils & Cheatsheets**
+- Notes sur Metasploit
+- Commandes Linux essentielles
+- Utilisation de BurpSuite / Gobuster / Nikto…
+- Scripts utiles
+
+### 🧩 **4. Write-ups**
+- Résolutions de challenges
+- Explications détaillées
+- Étapes d’exploitation
+
+---
+
+## 🎯 Objectif du repo
+
+- Centraliser mes connaissances et mes techniques de CTF  
+- Améliorer ma rapidité lors des challenges  
+- Documenter mes progrès en cybersécurité  
+- Servir de référence personnelle et évolutive  
+
+---
+
+## ⚠️ Avertissement
+
+> Ce projet est destiné **uniquement à un usage éducatif et éthique**.  
+> Toutes les techniques décrites doivent être utilisées dans un environnement contrôlé ou avec une autorisation explicite.
+
+---
+
+## 🚀 Améliorations futures
+
+- Automatisation de certaines étapes (scripts Bash/Python)
+- Modèles de reconnaissance génériques
+- Ajout d’exercices pratiques
+- Documentation plus détaillée par services/vulnérabilités
