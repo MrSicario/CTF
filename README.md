@@ -1,8 +1,8 @@
 # 🕵️‍♂️ Cybersecurity /CTF 
 
-Ce dépôt contient l’ensemble de mes notes, commandes, méthodologies et recherches personnelles réalisées lors de challenges **CTF**, d’exercices de **pentesting**, et de travaux pratiques liés à la cybersécurité.
+Ce dépôt contient l’ensemble des commandes, méthodologies et recherches  réalisées lors de challenges **CTF**, d’exercices de **pentesting**, et de travaux pratiques liés à la cybersécurité.
 
-L’objectif est de centraliser tout ce qui peut m’aider à automatiser, répéter et améliorer mes processus d’audit ou d’exploitation.
+L’objectif est de centraliser tout ce qui peut aider à automatiser, répéter et améliorer les processus d’audit ou d’exploitation.
 
 ---
 
@@ -37,10 +37,9 @@ Les dossiers et fichiers sont organisés par grandes thématiques :
 
 ## 🎯 Objectif du repo
 
-- Centraliser mes connaissances et mes techniques de CTF  
-- Améliorer ma rapidité lors des challenges  
-- Documenter mes progrès en cybersécurité  
-- Servir de référence personnelle et évolutive  
+- Centraliser les connaissances et les techniques de CTF  
+- Améliorer la rapidité lors des challenges  
+- Documenter les progrès en cybersécurité  
 
 ---
 
@@ -51,9 +50,3 @@ Les dossiers et fichiers sont organisés par grandes thématiques :
 
 ---
 
-## 🚀 Améliorations futures
-
-- Automatisation de certaines étapes (scripts Bash/Python)
-- Modèles de reconnaissance génériques
-- Ajout d’exercices pratiques
-- Documentation plus détaillée par services/vulnérabilités
